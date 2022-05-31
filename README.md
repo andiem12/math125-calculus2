@@ -3,9 +3,9 @@ layout: home
 title: Just the Class
 nav_exclude: true
 permalink: index.html
-seo:
-  type: Course
-  name: MATH 125
+Course Type:
+  Subject: Mathematics (Lower-Division)
+  Title: MATH 125
 ---
 
 # Just the Class
