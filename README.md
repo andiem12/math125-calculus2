@@ -5,7 +5,7 @@ nav_exclude: true
 permalink: index.html
 seo:
   type: Course
-  name: Just the Class
+  name: MATH 125
 ---
 
 # Just the Class
