@@ -8,7 +8,7 @@ Course Type:
   Title: MATH 125
 ---
 
-# Just the Class
+# Welcome to Andie Jia's MATH 125 Material Website!
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
